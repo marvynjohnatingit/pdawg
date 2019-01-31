@@ -1,0 +1,18 @@
+body {
+    background-color: powderblue;
+}
+
+td{
+	border-style: inset;
+}
+
+#chili{
+	font-family: cursive;
+	text-shadow: 5px 3px black;
+}
+
+#tdistinct{
+	border-style: solid;
+    border-width: 5px;
+    background-color: yellow;
+}
